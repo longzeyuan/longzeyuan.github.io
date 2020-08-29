@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>龙泽苑人</title>
+  <title>龙泽苑.人</title>
   
-  <subtitle>非官方社区</subtitle>
+  <subtitle>longzeyuan.ren</subtitle>
   <link href="http://longzeyuan.ren/atom.xml" rel="self"/>
   
   <link href="http://longzeyuan.ren/"/>
