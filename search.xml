@@ -14,7 +14,25 @@
 <li><input disabled="" type="checkbox"> 地下车库环境差，保洁不到位</li>
 <li><input disabled="" type="checkbox"> 住宅内部墙体很多小广告</li>
 </ul>
-]]></content>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
       <categories>
         <category>问题</category>
       </categories>
