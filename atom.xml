@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>龙泽苑人</title>
+  
+  <subtitle>非官方社区</subtitle>
+  <link href="http://longzeyuan.ren/atom.xml" rel="self"/>
+  
+  <link href="http://longzeyuan.ren/"/>
+  <updated>2020-08-29T09:40:12.125Z</updated>
+  <id>http://longzeyuan.ren/</id>
+  
+  <author>
+    <name>禾白小彡</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>社区目前的问题</title>
+    <link href="http://longzeyuan.ren/2020/08/29/community-issues/"/>
+    <id>http://longzeyuan.ren/2020/08/29/community-issues/</id>
+    <published>2020-08-29T09:08:08.000Z</published>
+    <updated>2020-08-29T09:40:12.125Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>汇总一下当前社区问题<br>更多问题请爆料给ilovelongzeyuan#163.com(替换#为@，标题包含“投稿”)</p></blockquote><ul><li><input disabled="" type="checkbox"> 100+住户房屋在雨天漏水严重</li><li><input disabled="" type="checkbox"> 电梯存在安全隐患(物业组织业主签字申请公维基金，建委要求9月底前完成大修)</li><li><input disabled="" type="checkbox"> 部分住宅无门禁或对讲机</li><li><input disabled="" type="checkbox"> 社区监控不完善</li><li><input disabled="" type="checkbox"> 地下车库环境差，保洁不到位</li><li><input disabled="" type="checkbox"> 住宅内部墙体很多小广告</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;汇总一下当前社区问题&lt;br&gt;更多问题请爆料给ilovelongzeyuan#163.com(替换#为@，标题包含“投稿”)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="问题" scheme="http://longzeyuan.ren/categories/%E9%97%AE%E9%A2%98/"/>
+    
+    
+    <category term="物业" scheme="http://longzeyuan.ren/tags/%E7%89%A9%E4%B8%9A/"/>
+    
+    <category term="问题" scheme="http://longzeyuan.ren/tags/%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+</feed>
