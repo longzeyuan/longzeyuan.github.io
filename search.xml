@@ -1,51 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>社区目前的问题</title>
-    <url>/2020/08/29/community-issues/</url>
-    <content><![CDATA[<blockquote>
-<p>汇总一下当前社区问题<br>更多问题请爆料给ilovelongzeyuan#163.com(替换#为@，标题包含“投稿”)</p>
-</blockquote>
-<ul>
-<li><input disabled="" type="checkbox"> 100+住户房屋在雨天漏水严重</li>
-<li><input disabled="" type="checkbox"> 电梯存在安全隐患(物业组织业主签字申请公维基金，建委要求9月底前完成大修)</li>
-<li><input disabled="" type="checkbox"> 部分住宅无门禁或对讲机</li>
-<li><input disabled="" type="checkbox"> 社区监控不完善</li>
-<li><input disabled="" type="checkbox"> 地下车库环境差，保洁不到位</li>
-<li><input disabled="" type="checkbox"> 住宅内部墙体很多小广告</li>
-<li><input disabled="" type="checkbox"> 持续更新中……</li>
-</ul>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-      <categories>
-        <category>问题</category>
-      </categories>
-      <tags>
-        <tag>物业</tag>
-        <tag>问题</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于业委会委员条件的思考</title>
     <url>/2020/08/30/committee-requirement/</url>
     <content><![CDATA[<p>业委会的成立是人心所向，目前关于业委会候选人的讨论也比较多。咱也通过下面针对业委会候选人问题，来说说自己的一点看法：</p>
+<a id="more"></a>
+
 <h2 id="您是否有足够的精力参加业委会（有时间）？"><a href="#您是否有足够的精力参加业委会（有时间）？" class="headerlink" title="您是否有足够的精力参加业委会（有时间）？"></a>您是否有足够的精力参加业委会（有时间）？</h2><blockquote>
 <p>业委会在成立后会有很多事情要做，尤其是在解决当前社区居住环境问题上会与物业进行交涉。这些都是耗时耗力的，需要相对充足的时间。</p>
 </blockquote>
@@ -89,6 +49,52 @@
       </categories>
       <tags>
         <tag>业委会</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>社区目前的问题</title>
+    <url>/2020/08/29/community-issues/</url>
+    <content><![CDATA[<blockquote>
+<p>汇总一下当前社区问题<br>更多问题请爆料给ilovelongzeyuan#163.com(替换#为@，标题包含“投稿”)</p>
+</blockquote>
+<a id="more"></a>
+
+<ul>
+<li><input disabled="" type="checkbox"> 100+住户房屋在雨天漏水严重</li>
+<li><input disabled="" type="checkbox"> 电梯存在安全隐患(物业组织业主签字申请公维基金，建委要求9月底前完成大修)</li>
+<li><input disabled="" type="checkbox"> 部分住宅无门禁或对讲机</li>
+<li><input disabled="" type="checkbox"> 社区监控不完善</li>
+<li><input disabled="" type="checkbox"> 地下车库环境差，保洁不到位</li>
+<li><input disabled="" type="checkbox"> 小区会所因归属权十余年未启用问题</li>
+<li><input disabled="" type="checkbox"> 小区停车位不足，乱停车问题</li>
+<li><input disabled="" type="checkbox"> 小区停车费、电梯广告费归属问题</li>
+<li><input disabled="" type="checkbox"> 持续更新中……</li>
+</ul>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>问题</category>
+      </categories>
+      <tags>
+        <tag>物业</tag>
+        <tag>问题</tag>
       </tags>
   </entry>
 </search>
