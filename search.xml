@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>社区目前的问题</title>
+    <url>/2020/08/29/community-issues/</url>
+    <content><![CDATA[<blockquote>
+<p>汇总一下当前社区问题<br>更多问题请爆料给ilovelongzeyuan#163.com(替换#为@，标题包含“投稿”)</p>
+</blockquote>
+<ul>
+<li><input disabled="" type="checkbox"> 100+住户房屋在雨天漏水严重</li>
+<li><input disabled="" type="checkbox"> 电梯存在安全隐患(物业组织业主签字申请公维基金，建委要求9月底前完成大修)</li>
+<li><input disabled="" type="checkbox"> 部分住宅无门禁或对讲机</li>
+<li><input disabled="" type="checkbox"> 社区监控不完善</li>
+<li><input disabled="" type="checkbox"> 地下车库环境差，保洁不到位</li>
+<li><input disabled="" type="checkbox"> 住宅内部墙体很多小广告</li>
+<li><input disabled="" type="checkbox"> 持续更新中……</li>
+</ul>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>问题</category>
+      </categories>
+      <tags>
+        <tag>物业</tag>
+        <tag>问题</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于业委会委员条件的思考</title>
     <url>/2020/08/30/committee-requirement/</url>
     <content><![CDATA[<p>业委会的成立是人心所向，目前关于业委会候选人的讨论也比较多。咱也通过下面针对业委会候选人问题，来说说自己的一点看法：</p>
@@ -47,48 +89,6 @@
       </categories>
       <tags>
         <tag>业委会</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>社区目前的问题</title>
-    <url>/2020/08/29/community-issues/</url>
-    <content><![CDATA[<blockquote>
-<p>汇总一下当前社区问题<br>更多问题请爆料给ilovelongzeyuan#163.com(替换#为@，标题包含“投稿”)</p>
-</blockquote>
-<ul>
-<li><input disabled="" type="checkbox"> 100+住户房屋在雨天漏水严重</li>
-<li><input disabled="" type="checkbox"> 电梯存在安全隐患(物业组织业主签字申请公维基金，建委要求9月底前完成大修)</li>
-<li><input disabled="" type="checkbox"> 部分住宅无门禁或对讲机</li>
-<li><input disabled="" type="checkbox"> 社区监控不完善</li>
-<li><input disabled="" type="checkbox"> 地下车库环境差，保洁不到位</li>
-<li><input disabled="" type="checkbox"> 住宅内部墙体很多小广告</li>
-<li><input disabled="" type="checkbox"> 持续更新中……</li>
-</ul>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-      <categories>
-        <category>问题</category>
-      </categories>
-      <tags>
-        <tag>物业</tag>
-        <tag>问题</tag>
       </tags>
   </entry>
 </search>
