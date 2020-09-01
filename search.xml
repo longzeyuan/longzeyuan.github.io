@@ -562,4 +562,33 @@
         <tag>服务</tag>
       </tags>
   </entry>
+  <entry>
+    <title>宁弃权，也不委曲求全</title>
+    <url>/2020/09/01/waiver-or-compromise/</url>
+    <content><![CDATA[<blockquote>
+<p>从小区筹备业委会开始，一直关注整个过程，参与过微信群讨论，也参加过居委会座谈会。<br>从发现不合理的地方给建议、到不透明的地方提质疑。发现自己的无限期待慢慢的变成了无奈。<br>也许最终会选择弃权，因为不愿意委曲求全。</p>
+</blockquote>
+<a id="more"></a><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <tags>
+        <tag>业委会</tag>
+      </tags>
+  </entry>
 </search>
