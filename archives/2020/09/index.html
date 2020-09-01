@@ -416,7 +416,7 @@
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
   NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
-    var guest = 'nick,mail,link';
+    var guest = 'nick';
     guest = guest.split(',').filter(item => {
       return GUEST.includes(item);
     });
@@ -426,14 +426,14 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       notify     : false,
       appId      : 'QKiHH1qqu7de3r7P8qQi2e6p-gzGzoHsz',
       appKey     : 'LJtqz270S7QTwNKC7w1WYBvE',
-      placeholder: "Just go go",
-      avatar     : 'mm',
+      placeholder: "随便说点啥",
+      avatar     : '',
       meta       : guest,
       pageSize   : '10' || 10,
-      visitor    : false,
+      visitor    : true,
       lang       : '' || 'zh-cn',
       path       : location.pathname,
-      recordIP   : false,
+      recordIP   : true,
       serverURLs : ''
     });
   }, window.Valine);
