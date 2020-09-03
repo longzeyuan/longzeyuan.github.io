@@ -3,8 +3,9 @@ Allow: /
 Allow: /archives/
 Allow: /tags/
 Allow: /categories/
-Allow: /about/
+Disallow: /about/
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
+Disallow: /2020/09/03/candidates
