@@ -46,6 +46,7 @@
       </script>]]></content>
       <categories>
         <category>业委会</category>
+        <category>胡言乱语</category>
       </categories>
       <tags>
         <tag>业委会</tag>
@@ -55,7 +56,7 @@
     <title>社区目前的问题</title>
     <url>/2020/08/29/community-issues/</url>
     <content><![CDATA[<blockquote>
-<p>汇总一下当前社区问题<br>更多问题请爆料给ilovelongzeyuan#163.com(替换#为@，标题包含“投稿”)</p>
+<p>汇总一下当前社区问题<br>更多问题请爆料给 <a href="mailto:ilovelongzeyuan@163.com">ilovelongzeyuan@163.com</a>(标题包含“投稿”)，或是直接在本主题下评论留言。</p>
 </blockquote>
 <a id="more"></a>
 
@@ -587,8 +588,50 @@
             document.body.appendChild(img);
           });
       </script>]]></content>
+      <categories>
+        <category>胡言乱语</category>
+      </categories>
       <tags>
         <tag>业委会</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>业委会候选人</title>
+    <url>/2020/09/03/candidates/</url>
+    <content><![CDATA[<blockquote>
+<p>在业委会筹备过程中，有很多热心而又勇敢的邻居报名参加。<br>为了让大家对他们有更多的了解，在这里展示他们的风采。</p>
+</blockquote>
+<p>如果您愿意通过本主页进行信息公示，请将信息发送到 <a href="mailto:ilovelongzeyuan@163.com">ilovelongzeyuan@163.com</a>。如侵犯您的权益，也可联系进行删除。</p>
+<a id="more"></a>
+<p><strong>（按照姓名首字母排序）</strong></p>
+<h3 id="江户川柯南"><a href="#江户川柯南" class="headerlink" title="江户川柯南"></a>江户川柯南</h3><p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1599150000339&amp;di=14b9fdc97ceabe65d6296c77e96414ed&amp;imgtype=0&amp;src=http://i0.hdslb.com/bfs/article/4c9f08f4bbda106b965051ab3664d79bc7a6561a.png" alt="江户川柯南" title="江户川柯南"><br><code>男</code> <code>7岁</code> <code>学生</code> <code>名侦探</code> <code>纯业主</code> <code>群众</code> </p>
+<blockquote>
+<p><strong>自我介绍</strong><br>我叫江户川柯南，是个侦探。我只想成为平成年代的福尔摩斯！<br>如果还有什么难以解决的案件，就请找我名侦探工藤新一好了！<br><strong>我的心里话</strong><br>真相只有一个！ </p>
+</blockquote>
+<h3 id="候选人2"><a href="#候选人2" class="headerlink" title="候选人2"></a>候选人2</h3><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>业委会</category>
+      </categories>
+      <tags>
+        <tag>候选人</tag>
       </tags>
   </entry>
 </search>
