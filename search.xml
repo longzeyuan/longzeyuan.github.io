@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于候选人争议的思考</title>
+    <url>/2020/09/12/problem-analysis/</url>
+    <content><![CDATA[<p>我觉得现在最大的症结在于：</p>
+<ul>
+<li>筹委会用不透明的流程从15人名单选出了9个人，其中还有存在争议的候选人；</li>
+<li>是这9个人要等额选举，如果不选就不能成立业委会，导致大家不得不认可9名候选人。</li>
+</ul>
+<a id="more"></a>
+<p>有人说进个业委会居然这么多人争。但是从这么多天群里的交流应该就可以知道，在争的是我们这些普通业主，他们争取的是自己所能依赖的业主进入。是我们不认识这些业主，但是我们能从他们言语和行动中感受到他们是真正代表广大业主利益的，我们自然信任他们，也希望他们进入业委会。</p>
+<p>但是在事情发展的过程中，一切似乎都在被党建引领带偏，居委会进入没有问题（之前我是反对的，因为我认为居委会是裁判员做运动员，不合适），但是从筹委会开始到业委会候选人，以居委会为主体的筹委会通过制定规则代替广大业主选了他们自己信得过的人。在这个过程中出现了如下两个问题引发了信任危机：</p>
+<ul>
+<li>有违建历史的居委会成员刘女士进入15人候选人清单；</li>
+<li>有物业利益相关的罗先生进入9人清单。</li>
+</ul>
+<p>综上，出现这种情况的原因，我总结如下：<br>    1. 居委会在主导过程中对广大业主不信任，所以在筹建过程过度掌控。（这点上我觉得居委会也是想办好事，但是手段过于生硬）<br>    2. 筹备组在筹建过程中未做到信息透明，未对业主的问题进行解答，会让业主认为不作为。导致讨论蔓延，怨意扩散。甚至被挖出更多的黑料。<br>    3. 业主对居委会的不信任，从组建筹备组开始，大家的意见被冷处理开始，让大家相信只有纯业主才能保证业主的利益。</p>
+<p>至于建议，已经有业主罗列多条，需要筹备组认真对待，不再赘述。</p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>业委会</category>
+      </categories>
+      <tags>
+        <tag>候选人</tag>
+        <tag>居委会</tag>
+        <tag>筹建组</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>业委会候选人</title>
     <url>/2020/09/03/candidates/</url>
     <content><![CDATA[<blockquote>
