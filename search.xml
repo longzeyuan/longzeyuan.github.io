@@ -865,4 +865,72 @@
         <tag>选举</tag>
       </tags>
   </entry>
+  <entry>
+    <title>一致团结龙泽东，三代协力业委会</title>
+    <url>/2020/09/24/news/</url>
+    <content><![CDATA[<p>两个多月以来，居委会和筹备组的全体成员一直在为龙泽东区成立业主委员会辛勤地忙碌着。</p>
+<p>社区党支部、居委会充分发扬民主精神，把业主委员会的成立工作当做社区推进民主建设的大事来抓，切实维护好广大业主的合法利益。</p>
+<a id="more"></a>
+
+<p>在社区街道领导的关心下，由沙静书记负责组织带领，先后完成了龙泽苑东、西区物业管理区域的拆分；成立了业委会选举筹备小组、监督小组和顾问小组；拟定了首次业主大会会议召开方案、业主大会议事规则和业主管理规约；多次召开筹备组会议、业主意见座谈会等；充分听取了业主们的意见和建议、反复统一认识，提出了各方都比较满意的业委会候选人名单。</p>
+<p>目前，即将进入选举投票阶段。为了满足广大业主的知情权，尽最大努力宣传到位、通知到位，居委会同时发动各楼党员、楼长及业主积极分子参与业委会投票的宣传工作。业主们为了建设美好家园也是热情高涨，男女老少齐上阵，做为志愿者在小区里和居委会工作人员一起悬挂宣传条幅，张贴宣传告示。所有人都在为龙泽东的美好明天贡献自己的一份微薄之力。</p>
+<style>
+
+b {
+    display: block;
+    text-align: center;
+}
+
+.img {
+    width:500px;
+}
+
+@media screen and (max-width: 500px) {
+    .img {
+        width:100%;
+    }
+}
+
+</style>
+
+<img src="https://longzeyuan.oss-cn-beijing.aliyuncs.com/zyz1.png" class="img" align="middle">
+<b>耄耋老人心怀对社区的厚爱，不顾年高来做志愿者，正在楼门张贴通知</b>
+
+
+<img src="https://longzeyuan.oss-cn-beijing.aliyuncs.com/zyz2.png" class="img" align="middle">
+<b>小朋友们也来帮助张贴通知，他们希望小区有更多可以奔跑嬉戏的地方</b>
+
+
+<img src="https://longzeyuan.oss-cn-beijing.aliyuncs.com/zyz3.png" class="img" align="middle">
+<b>为了将小区建设得更好，大家在真诚地交流意见</b>
+
+<img src="https://longzeyuan.oss-cn-beijing.aliyuncs.com/zyz4.png" class="img" align="middle">
+<img src="https://longzeyuan.oss-cn-beijing.aliyuncs.com/zyz5.png" class="img" align="middle">
+<b>志愿者们相应居委会号召，为家园安全美丽的明天贡献一份力量</b><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>业委会</category>
+      </categories>
+      <tags>
+        <tag>业委会</tag>
+        <tag>投票</tag>
+      </tags>
+  </entry>
 </search>
